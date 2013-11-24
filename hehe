@@ -1,0 +1,23 @@
+Try-lang
+========
+<html>
+  <head> 
+  <title> Table</title> </head>
+  <body bgcolor="black">
+    <center>
+    "
+    
+    &nbsp;&nbsp;"
+    <table border="4" cellpading="8" cellspacing="8" style="background color:pink;
+    text-align="center;">
+    <caption style="color:green; font weight="bold"; text transform=uppercase;">AUTOBIOGRAPHY
+    </caption>
+    <tbody>
+    <tr></tr>
+    <tr>
+      <td></td>
+    </tr>
+    
+    
+      
+</html>
